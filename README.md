@@ -1,4 +1,5 @@
 # C-Programming_Ezaan-Ejaz
+<<<<<<< HEAD
 #include <stdio.h>
 
 int main()
@@ -20,3 +21,6 @@ int main()
     printf("\n The minimum value in the array is %d", min);
     return 0;
 }
+=======
+ 
+>>>>>>> ea6914191abe318eb231b8c99c78cce0fb665f78
